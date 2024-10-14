@@ -6,7 +6,7 @@ The game is a classic Snake game where players control a snake that grows longer
 
 My purpose in writing this software is to apply the knowledge I have gained in Python and game development, and to create a functional project that I can showcase in my portfolio.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/RYEI27iNU-Q)
 
 # Development Environment
 
